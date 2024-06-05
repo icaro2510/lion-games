@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Legends In The War 2",
+      "descricao": "Jogo de guerra",
+      "foto": "jogo_guerra.png",
+      "preco": 290
+    },
+    {
+      "id": "2",
+      "produto": "River Raid",
+      "descricao": "Jogo Arcade",
+      "foto": "jogo_retro.png",
+      "preco": 150
+    },
+    {
+      "id": "3",
+      "produto": "Superman Returns",
+      "descricao": "Jogo de ação",
+      "foto": "superH.jpg",
+      "preco": 370
+    },
+    {
+      "id": "4",
+      "produto": "Elecktro",
+      "descricao": "Jogo de ação e aventura",
+      "foto": "elecktro.png",
+      "preco": 270
+    },
+    {
+      "id": "5",
+      "produto": "Acessórios",
+      "descricao": "Acessórios para console",
+      "foto": "acessorio1.png",
+      "preco": 400
+    }
+  ]
+}
